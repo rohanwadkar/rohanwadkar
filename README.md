@@ -21,10 +21,10 @@
 
 ## Share your thoughts with me at
 
--  LinkedIn [rohanw](www.linkedin.com/in/rohanwadkar/)
-- Twitter [@rohanwadkar18](https://twitter.com/rohanwadkar18)
-- Github [rohanwadkar](www.github.com/rohanwadkar/)
-- Portfolio website rohanwadkar.com
-- Instagram [@thisisrohann](www.instagram.com/thisisrohann)
+-  👨‍💼 LinkedIn [rohanw](www.linkedin.com/in/rohanwadkar/)
+- 🕊️ Twitter [@rohanwadkar18](https://twitter.com/rohanwadkar18)
+- :octocat: Github [rohanwadkar](www.github.com/rohanwadkar/)
+- ℹ️ Portfolio website rohanwadkar.com
+- 🧘‍♂️ Instagram [@thisisrohann](www.instagram.com/thisisrohann)
 
-👨‍💻 🔄 ⛹️‍♂️ 
+  👨‍💻 🔄 ⛹️‍♂️ 
