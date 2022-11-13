@@ -10,7 +10,7 @@
 
 <!-- Here are some ideas to get you started: -->
 
-- Currently working on ROS noetic  🔭
+- Currently working with projects on ROS noetic  🔭
 - Also recently I have started learing Deep Learning and in near future I will learn ROS 2  🌱
 - I’m looking to collaborate on projects based on ROS 1 & 2  :handshake: 
 - In my free time I like to do a lot of things, ask and you shall know  :bowing_man:
