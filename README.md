@@ -15,6 +15,7 @@
 - I’m looking to collaborate on projects based on ROS 1 & 2  :handshake: 
 - In my free time I like to do a lot of things, ask and you shall know  :bowing_man:
 - I host a podcast show called [The Zero to Top 1 podcast](https://open.spotify.com/show/5l6ZdLnwyXeqVUoQki8U95)  :studio_microphone:
+- favourite line from a movie 
 
 
 
