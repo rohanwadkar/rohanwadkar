@@ -16,3 +16,15 @@
 - In my free time I like to do a lot of things, ask and you shall know  :bowing_man:
 - I host a podcast show called [The Zero to Top 1 podcast](https://open.spotify.com/show/5l6ZdLnwyXeqVUoQki8U95)  :studio_microphone:
 
+
+
+
+## Share your thoughts with me at
+
+-  LinkedIn [rohanw](www.linkedin.com/in/rohanwadkar/)
+- Twitter [@rohanwadkar18](https://twitter.com/rohanwadkar18)
+- Github [rohanwadkar](www.github.com/rohanwadkar/)
+- Portfolio website rohanwadkar.com
+- Instagram [@thisisrohann](www.instagram.com/thisisrohann)
+
+👨‍💻 🔄 ⛹️‍♂️ 
