@@ -2,7 +2,7 @@
 
 ### An Undergraduate student in Mechanical Engineering with good background in ROS and Mechanical Design. 
 
-### I'm a avid roboticist. My interests lie at the crossroads of hardware :gear:, software :computer:, electronics :trackball: and systems. There's something thrilling about the point where intelligence absolutely meets environmental interaction. What matters is...what am I going to do with it?
+### I'm a avid robotics student. My interests lie at the crossroads of hardware :gear:, software :computer:, electronics :trackball: and systems. There's something thrilling about the point where intelligence absolutely meets environmental interaction. What matters is...what am I going to do with it?
 
 
 
