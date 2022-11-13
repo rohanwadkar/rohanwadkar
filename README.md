@@ -1,20 +1,19 @@
-## Hello! This is Rohan -hand raise emoji-
+# Hello! This is Rohan :raising_hand_man:
 
-### Undergraduate student in Mechanical with good background in ROS and Machine design. My interests lie at the crossroads of hardware, software, electronics and systems. There's something thrilling about the point where intelligence absolutely meets environmental interaction. What matters is...what am I going to do with it?
+### An Undergraduate student in Mechanical Engineering with good background in ROS and Mechanical Design. 
+
+### I'm a avid roboticist. My interests lie at the crossroads of hardware :gear:, software :computer:, electronics :trackball: and systems. There's something thrilling about the point where intelligence absolutely meets environmental interaction. What matters is...what am I going to do with it?
 
 
-<!--
-**rohanwadkar/rohanwadkar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+<!-- **rohanwadkar/rohanwadkar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 In my free time I like to read books
-- emoji I have a podcast ...
-- ⚡ Fun fact: ...
--->
+<!-- Here are some ideas to get you started: -->
+
+- Currently working on ROS noetic  🔭
+- Also recently I have started learing Deep Learning and in near future I will learn ROS 2  🌱
+- I’m looking to collaborate on projects based on ROS 1 & 2  :handshake: 
+- In my free time I like to do a lot of things, ask and you shall know  :bowing_man:
+- I host a podcast show called [The Zero to Top 1 podcast](https://open.spotify.com/show/5l6ZdLnwyXeqVUoQki8U95)  :studio_microphone:
+- 
+
