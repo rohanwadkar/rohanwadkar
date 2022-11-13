@@ -25,7 +25,7 @@
 -  👨‍💼 LinkedIn [rohanw](www.linkedin.com/in/rohanwadkar/)
 - 🕊️ Twitter [@rohanwadkar18](https://twitter.com/rohanwadkar18)
 - :octocat: Github [rohanwadkar](www.github.com/rohanwadkar/)
-- ℹ️ Portfolio website rohanwadkar.com
+<!-- - ℹ️ Portfolio website rohanwadkar.com -->
 - 🧘‍♂️ Instagram [@thisisrohann](www.instagram.com/thisisrohann)
 
   👨‍💻 🔄 ⛹️‍♂️ 
