@@ -22,7 +22,7 @@
 
 ## Share your thoughts with me at
 
--  👨‍💼 LinkedIn [rohanw](www.linkedin.com/in/rohanwadkar/)
+-  👨‍💼 LinkedIn [Rohan Wadkar](www.linkedin.com/in/rohanwadkar/)
 - 🕊️ Twitter [@rohanwadkar18](https://twitter.com/rohanwadkar18)
 - :octocat: Github [rohanwadkar](www.github.com/rohanwadkar/)
 <!-- - ℹ️ Portfolio website rohanwadkar.com -->
